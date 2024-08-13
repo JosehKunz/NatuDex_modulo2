@@ -1,0 +1,15 @@
+.app-container {
+    display: flex;
+  }
+  
+  .main-content {
+    margin-left: 0px; 
+    padding: 5px;
+    flex-grow: 1;
+  }
+  
+  .img-logo {
+    width: 10%;
+    height: 10%;
+  }
+  
