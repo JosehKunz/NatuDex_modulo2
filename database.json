@@ -1,0 +1,161 @@
+{
+  "localidades": [
+    {
+      "id": "b85d",
+      "nome": "Trilha no Centro",
+      "descricao": "Um achado no meio da área urbana da cidade!",
+      "cep": "88010002",
+      "localizacao": "88010-002, Centro, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "5",
+      "userId": "fy42dfnou",
+      "latitude": "-27.592027466666668",
+      "longitude": "-48.558899"
+    },
+    {
+      "id": "cf91",
+      "nome": "Praia da Armação",
+      "descricao": "Um ótimo local para passear, cheio de restinga e paisagens exuberantes!",
+      "cep": "88066260",
+      "localizacao": "88066-260, Armação do Pântano do Sul, Pântano do Sul, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "5",
+      "userId": "fy42dfnou",
+      "latitude": "-27.7577737",
+      "longitude": "-48.509641"
+    },
+    {
+      "id": "35c1",
+      "nome": "Cachoeira do Bom Jesus",
+      "descricao": "Não tem Cachoeira e não é tão bom lugar assim...",
+      "cep": "88054971",
+      "localizacao": "88054-971, Cachoeira do Bom Jesus, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "2",
+      "userId": "fy42dfnou",
+      "latitude": "-27.4229594",
+      "longitude": "-48.4355547"
+    },
+    {
+      "id": "5fb0",
+      "nome": "Campeche",
+      "descricao": "Local interessante, mas achei muito movimentado...",
+      "cep": "88063000",
+      "localizacao": "88063-000, Campeche, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "3",
+      "userId": "ab12cd34e",
+      "latitude": "-27.680399008333332",
+      "longitude": "-48.49422400833333"
+    },
+    {
+      "id": "7f2a",
+      "nome": "Pouca preservação e muito argentino!",
+      "descricao": "A água do rio próximo ao local estava com um cheiro muito ruim!",
+      "cep": "88054000",
+      "localizacao": "88054-000, Canasvieiras, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "1",
+      "userId": "ab12cd34e",
+      "latitude": "-27.4289655",
+      "longitude": "-48.4641965"
+    },
+    {
+      "id": "57e3",
+      "nome": "Ribeirão",
+      "descricao": "Ótimo local, tem restaurantes muito bacanas próximo da área de preservação.",
+      "cep": "88064000",
+      "localizacao": "88064-000, Ribeirão da Ilha, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "5",
+      "userId": "ab12cd34e",
+      "latitude": "-27.7033712",
+      "longitude": "-48.53172"
+    },
+    {
+      "id": "c080",
+      "nome": "Amei!",
+      "descricao": "Santo Antonio é muito lindo ao por do sol, melhor ir no fim de tarde.",
+      "cep": "88050000",
+      "localizacao": "88050-000, Santo Antônio de Lisboa, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "avaliacao": "4",
+      "userId": "ab12cd34e",
+      "latitude": "-27.50202093333333",
+      "longitude": "-48.50893516666667"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "fy42dfnou",
+      "nome": "José Oswaldo Kunz Neto",
+      "sexo": "Masculino",
+      "cpf": "024.950.460-09",
+      "dataNascimento": "1989-05-12",
+      "email": "josekunz@gmail.com",
+      "senha": "TESTE",
+      "cep": " 88010002",
+      "endereco": "88050-000, Santo Antônio de Lisboa, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.50202093333333",
+      "longitude": "-48.50893516666667"
+    },
+    {
+      "id": "ab12cd34e",
+      "nome": "Maria Clara Silva",
+      "sexo": "Feminino",
+      "cpf": "123.456.789-00",
+      "dataNascimento": "1992-07-15",
+      "email": "mariaclara@gmail.com",
+      "senha": "TESTE",
+      "cep": "88020030",
+      "endereco": "88020-030, Centro, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.5953777",
+      "longitude": "-48.5480499"
+    },
+    {
+      "id": "gh56ij78k",
+      "nome": "Fernando Henrique Oliveira",
+      "sexo": "Masculino",
+      "cpf": "987.654.321-11",
+      "dataNascimento": "1985-03-25",
+      "email": "fernandooliveira@gmail.com",
+      "senha": "TESTE",
+      "cep": "88030670",
+      "endereco": "88030-670, Trindade, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.5952342",
+      "longitude": "-48.5161129"
+    },
+    {
+      "id": "kl90mn12o",
+      "nome": "Ana Beatriz Souza",
+      "sexo": "Feminino",
+      "cpf": "456.789.123-22",
+      "dataNascimento": "1990-11-08",
+      "email": "anabeatriz@gmail.com",
+      "senha": "TESTE",
+      "cep": "88036500",
+      "endereco": "88036-500, Itacorubi, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.5858009",
+      "longitude": "-48.5214602"
+    },
+    {
+      "id": "pq34rs56t",
+      "nome": "Lucas Martins Almeida",
+      "sexo": "Masculino",
+      "cpf": "789.123.456-33",
+      "dataNascimento": "1995-12-19",
+      "email": "lucas.almeida@gmail.com",
+      "senha": "TESTE",
+      "cep": "88040320",
+      "endereco": "88040-320, Córrego Grande, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.5847828",
+      "longitude": "-48.5032785"
+    },
+    {
+      "id": "uv78wx90y",
+      "nome": "Gabriela Costa Fernandes",
+      "sexo": "Feminino",
+      "cpf": "321.654.987-44",
+      "dataNascimento": "1998-09-30",
+      "email": "gabriela.costa@gmail.com",
+      "senha": "TESTE",
+      "cep": "88058500",
+      "endereco": "88058-500, Ingleses Centro, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.4321397",
+      "longitude": "-48.3966397"
+    }
+  ]
+}
