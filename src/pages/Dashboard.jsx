@@ -58,7 +58,7 @@ function Dashboard() {
                 <Card.Text className="small-text">Nota do Usuário: {local.avaliacao}</Card.Text>
                 <Card.Text className="text">{local.descricao}</Card.Text>
                 <Card.Text className="small-text">{local.localizacao}</Card.Text>
-                <Map locais={[local]} />
+                <Map latitude={local.latitude} longitude={local.longitude} locais={[local]} />
               </Card.Body>
             </Card>
           </Col>
