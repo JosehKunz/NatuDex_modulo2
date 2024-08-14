@@ -1,0 +1,24 @@
+.sidemenu {
+  width: 15%;
+  background-color: var(--cinza-escuro);
+  padding: 20px;
+  padding-top: 100px;
+}
+
+.sidemenu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+  text-align: right; 
+}
+
+.sidemenu a:hover {
+  background-color: var(--verde-claro);
+  color: var(--bege-claro);
+  padding-right: 10px;
+}
+
+.sidemenu .menu-item {
+  padding: 10px ;
+}
