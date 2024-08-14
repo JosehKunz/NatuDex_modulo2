@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col, Card } from 'react-bootstrap';
+import Map from '../components/Map';
 
 function Dashboard() {
   const [totalLocais, setTotalLocais] = useState(0);
@@ -28,7 +29,7 @@ function Dashboard() {
         <Col md="4">
           <Card>
             <Card.Body>
-              <Card.Title><img src="/pin.png" alt="Icone Usuários" className = "icon"/> Total de Locais</Card.Title>
+              <Card.Title><img src="/pin.png" alt="Icone Usuários" className="icon"/> Total de Locais</Card.Title>
               <Card.Text className="card-text">{totalLocais}</Card.Text>
             </Card.Body>
           </Card>
@@ -37,7 +38,7 @@ function Dashboard() {
         <Col md="4">
           <Card>
             <Card.Body>
-              <Card.Title> <img src="/pessoas.png" alt="Icone Usuários" className = "icon"/> Total de Usuários Ativos</Card.Title>
+              <Card.Title> <img src="/pessoas.png" alt="Icone Usuários" className="icon"/> Total de Usuários Ativos</Card.Title>
               <Card.Text className="card-text">{totalUsuarios}</Card.Text>
             </Card.Body>
           </Card>
@@ -54,9 +55,10 @@ function Dashboard() {
             <Card>
               <Card.Body>
                 <Card.Title>{local.nome}</Card.Title>
-                <Card.Text className="small-text" >Nota do Usuário: {local.avaliacao} </Card.Text>
-                <Card.Text className="text" >{local.descricao}</Card.Text>
+                <Card.Text className="small-text">Nota do Usuário: {local.avaliacao}</Card.Text>
+                <Card.Text className="text">{local.descricao}</Card.Text>
                 <Card.Text className="small-text">{local.localizacao}</Card.Text>
+                <Map locais={[local]} />
               </Card.Body>
             </Card>
           </Col>
