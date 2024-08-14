@@ -38,7 +38,7 @@ NatuDex é uma aplicação web para o gerenciamento de áreas de preservação d
 
 
 ## 1.Clonando o Repositório
-   `git clone https://github.com/JosehKunz/FMT/tree/main/NatuDex%20Floripa%202`
+   `git clone https://github.com/JosehKunz/NatuDex_modulo2`
 
 ## 2.Configurando
 `npm install`
