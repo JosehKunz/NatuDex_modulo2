@@ -156,6 +156,19 @@
       "endereco": "88058-500, Ingleses Centro, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
       "latitude": "-27.4321397",
       "longitude": "-48.3966397"
+    },
+    {
+      "id": "8t69ibh34",
+      "nome": "José",
+      "sexo": "Masculino",
+      "cpf": "02495046008",
+      "dataNascimento": "2024-08-14",
+      "email": "josekun2@gmail.com",
+      "senha": "TESTE",
+      "cep": "88064000",
+      "endereco": "88064-000, Ribeirão da Ilha, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, Brasil",
+      "latitude": "-27.7033712",
+      "longitude": "-48.53172"
     }
   ]
 }
