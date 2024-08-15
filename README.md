@@ -10,7 +10,7 @@ NatuDex é uma aplicação web para o gerenciamento de áreas de preservação d
 - **Autenticação:** Login seguro para acesso ao sistema.
 - **Cadastro de Locais:** Permite o cadastro de locais de preservação com nome, descrição e localização baseada em CEP.
 - **Listagem de Locais:** Visualização de todos os locais cadastrados, com informações detalhadas.
-- **Dashboard:** Visão geral dos usuários e locais cadastrados.
+- **Dashboard:** Visão geral dos usuários e locais cadastrados. Com utilização do *Leaflet* para incorporação de Mapas.
 - **Integração com OpenStreetMap:** Busca automática de endereço e coordenadas geográficas a partir do CEP.
 
 ## Tecnologias
